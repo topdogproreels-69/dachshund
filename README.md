@@ -1,6 +1,6 @@
-# How to Train Your Dachshund: promo/sales page (static, single file)
-- index.html + cover-500x800.jpg. No build step. Served by GitHub Pages: https://topdogproreels-69.github.io/dachshund/
-- Mirrors the Rottweiler page (topdogproreels-69/rottweiler). Buy buttons -> https://www.checkout-ds24.com/product/753170/ (Digistore24 product 753170).
-- Affiliate signup -> https://www.digistore24-app.com/signup/753170/
-- Promo page for pins, Shorts and pitches (DS24 does not accept github.io as the official sales page).
-- Band color: #A8321E. Cover photo and interior credits are in the footer.
+# How to Train Your Dachshund: promo page
+- Live: https://topdogproreels-69.github.io/dachshund/
+- Buy (Payhip): https://payhip.com/b/QxkF3
+- Also Ko-fi: https://ko-fi.com/s/1bdbabea14
+- DS24 753170 affiliate: pending approval
+- Links configured in build.py BUY_LINKS / KOFI_LINKS
